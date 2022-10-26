@@ -14,3 +14,11 @@ https://user-images.githubusercontent.com/62194353/197988737-5827dfb5-938f-4722-
 
 API Demonstration:
 https://user-images.githubusercontent.com/62194353/197988954-f89d7c01-60b9-46de-9ad0-632e1037f4e8.mp4
+
+
+Differences in types of Recommender System Approachhes
+Content Based Approach -> Recommends based on the similarity of content you watch/view/etc [Chosen for this project]
+
+Collab Filtering Approach -> Based on user's interests. Example if Person A and B watches Movie X and loves it, if Person B watches Movie Z then A also gets recommended it. This usually applies to social media such as liking user's posts, etc
+
+Hybrid -> Mixture of both
