@@ -18,11 +18,11 @@ A content-based movie recommendation system built using Python with Machine Lear
 1) Right click on api.py and run it like any other standalone python file.
 2) The start up time for api.py is slow as it loads & builds up the data sets
 
-## :globe_with_meridians: Web Application Demonstration:
+## :globe_with_meridians: Web Application Demonstration
 
 https://user-images.githubusercontent.com/62194353/197988737-5827dfb5-938f-4722-9285-07e4c42a6bde.mp4
 
-## :rocket: API Demonstration:
+## :rocket: API Demonstration
 
 https://user-images.githubusercontent.com/62194353/197988954-f89d7c01-60b9-46de-9ad0-632e1037f4e8.mp4
 
